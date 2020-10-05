@@ -25,7 +25,7 @@ conda env export > environment.yml
 
 
 - [x] [Funtional programming in Python](https://realpython.com/courses/functional-programming-python/) by Dan Bader.
-- [ ] [Traditional face Detection with Python](https://realpython.com/courses/traditional-face-detection-python/)
+- [ ] [Cool new Features in python 3.8](https://realpython.com/courses/cool-new-features-python-38/) by Christopher Bailey
 ## TODO
 - finish readme
 - 
